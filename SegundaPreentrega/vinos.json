@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+    "title": "Graffigna Malbec",
+    "Variedad": "Tinto",
+    "description": "De profundo color púrpura con matices violáceos. El aroma es potente, resaltando la expresión frutal, en especial la cereza negra y la ciruela, en armonía con las notas de crianza en madera. En boca se presenta voluminoso, amable, intenso, de buen paladar medio, con una excelente estructura tánica.",
+    "price": 10.000,
+    "status": true,
+    "stock": 100
+    },
+    {
+        "id": "2",
+    "title": "Graffigna Cabernet Suavignon",
+    "Variedad": "Tinto",
+    "description": "De color rojo con matices violáceos. El Aroma es fino, que resalta la expresión frutal y especiado característica de este varietal. En boca se presenta amable, intenso, con taninos suaves combinados con las notas propias del roble. El final es generoso y de gran vivacidad.",
+    "price": 8.000,
+    "status": true,
+    "stock": 50
+    },
+    {
+        "id": "3",
+    "title": "Graffigna Pinot Grigio",
+    "Variedad": "Blanco",
+    "description": "Presenta un color amarillo pálido con destellos verdosos. Aromas a notas citricas y matices florales. Se perciben toques de durazno blanco y damasco. Fresco e intenso, con final en boca agradable, crujiente y bien balanceado.",
+    "price": 8.000,
+    "status": true,
+    "stock": 110
+    }
+]
